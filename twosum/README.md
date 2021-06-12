@@ -1,1 +1,1 @@
-![alt text](https://github.com/bvaughan633/leetcode_solutions/blob/main/outcome.png)
+![alt text](https://github.com/bvaughan633/leetcode_solutions/blob/main/twosum/outcome.png?raw=true)
